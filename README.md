@@ -12,7 +12,7 @@ This project implements a simple Caesar Cipher in Python. The Caesar Cipher is a
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/caesar-cipher.git
+    git clone https://github.com/a6h1n0v/caesar-cipher.git
     cd caesar-cipher
     ```
 
